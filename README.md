@@ -2,9 +2,7 @@
 # react-native-shimmer-effect ⚡
 ⚡⚡ A Shimmer Effect | Skeleton component written with reanimated V2 ⚡⚡
 
-<p align="center">
-<img src="https://github.com/tomzaku/react-native-shimmer-placeholder/blob/master/example.gif?raw=true">
-</p>
+
 
 ## Installation
 
